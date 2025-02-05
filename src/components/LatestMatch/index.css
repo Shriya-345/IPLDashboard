@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.latest-match {
+  padding: 10px;
+  border: 1px solid #ffffff33;
+  color: #ffffff;
+}
+.latest-match-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.competing-team,
+.venue,
+.result,
+.match-date {
+  font-size: 16px;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.home-container {
+  padding: 20px;
+  background-color: #1e293b;
+}
+.teams-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+}

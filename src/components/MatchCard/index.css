@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.match-card {
+  padding: 10px;
+  border: 1px solid #ffffff33;
+  text-align: center;
+  background-color: #0f172a;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.match-status-won {
+  color: #18ed66;
+}
+.match-status-lost {
+  color: #e31a1a;
+}

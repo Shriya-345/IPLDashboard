@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.team-card {
+  padding: 10px;
+  border: 1px solid #ffffff33;
+  text-align: center;
+  background-color: #0f172a;
+  border-radius: 5px;
+}
+.team-logo {
+  width: 100px;
+  height: auto;
+}
+.team-name {
+  font-size: 18px;
+  color: #ffffff;
+}
